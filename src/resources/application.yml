@@ -1,0 +1,8 @@
+quarkus:
+  mongodb:
+    connection-string: "mongodb+srv://m001-student:m001-mongodb-basics@cluster0.txkr0.mongodb.net/test"
+
+database:
+  name: "book"
+
+
