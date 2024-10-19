@@ -1,1 +1,1 @@
-# quarkus-starter-service
+# Library Management System
